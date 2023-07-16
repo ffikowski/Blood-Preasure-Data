@@ -1,5 +1,5 @@
 # Blood Preasure Data (12/21)
-- Created and compared were different prediction models to predict whether a person has blood preasure or not
-- Logistic regression and random forrest were the main modells
-- The separation parametes for both models got tuned according to the Accuracy and the ROC curve
-- For the random forests the number of trees, maximal depth and the number of variables to possibly split at in each node
+- We developed and analyzed various predictive models to determine whether or not an individual has blood pressure issues
+- The primary models utilized were logistic regression and random forest
+- The differentiation parameters for both models were optimized based on accuracy and the Receiver Operating Characteristic (ROC) curve
+- For the random forest model, parameters such as the number of trees, maximum depth, and the number of potential split variables at each node were meticulously adjusted
